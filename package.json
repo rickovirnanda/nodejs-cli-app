@@ -1,0 +1,11 @@
+{
+  "name": "my-node-cli",
+  "version": "0.0.1",
+  "description": "node CLI interpreter",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
